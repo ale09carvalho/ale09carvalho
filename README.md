@@ -4,7 +4,7 @@
 - 🤓 Pos/MBA - Governança de TI e MBA Gestão Estratégica de TI.
 - 🔭 Hoje atuando como professor da educação profissional...
 - 🌱 Estudado desenvolvimento Web:
-- 💻 Front-end e back-end..[html, css, js] - 🐘🐍 [PHP e Python].
+- 💻 Front-end e back-end..[html, css, js] - 🐘🐍 [PHP].
 - 😄 Banco de Dados com Mysql
 - 📫 E-mail: ale09.carvalho@gmail.com
 - 😄 Pronouns: ela/dela
@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<!--  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <img align="center" alt="Rafa-mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 </div>
