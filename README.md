@@ -1,6 +1,6 @@
 ## Olá !! Eu sou Alessandra Carvalho. 👋
 
-- 🤓 Formação em Gestão Tecnologia da Informação.
+- 🤓 Formação em Gestão da Tecnologia da Informação.
 - 🤓 Pos/MBA - Governança de TI e MBA Gestão Estratégica de TI.
 - 🔭 Hoje atuando como professor da educação profissional...
 - 🌱 Estudado desenvolvimento Web:
@@ -10,15 +10,13 @@
 - 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Mysql" height="30" width="40" src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
-
- 
+  <img align="center" alt="Rafa-mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 </div>
 
