@@ -6,8 +6,6 @@
 - 🌱 Estudado desenvolvimento Web:
 - 💻 Front-end e back-end..[html,css, js] - 🐘🐍 [PHP].
 - 😄 Banco de Dados com Mysql
-- 📫 E-mail: ale09.carvalho@gmail.com
-- 😄 Pronouns: ela/dela
 - 📂 <b>Segue o link do meu Portifólio:<b/>....
 
 <div style="display: inline_block"><br>
