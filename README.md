@@ -1,6 +1,6 @@
 ## Olá !! Eu sou Alessandra Carvalho. 👋
-👋 apaixonada por tecnologia e inovação.
-Habilidades.
+👋 Apaixonada por tecnologia e inovação.<br>
+Habilidades:
 - 🤓 Pós/MBA - Governança de TI e MBA Gestão Estratégica de TI.
 - 🔭 Atuando como professor da educação profissional...
 - 🌱 Cursando desenvolvimento Web:
