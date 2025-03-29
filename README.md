@@ -1,9 +1,8 @@
 ## Olá !! Eu sou Alessandra Carvalho. 👋
 
-- 🤓 Formação em Gestão da Tecnologia da Informação.
 - 🤓 Pós/MBA - Governança de TI e MBA Gestão Estratégica de TI.
-- 🔭 Hoje atuando como professor da educação profissional...
-- 🌱 Estudado desenvolvimento Web:
+- 🔭 Atuando como professor da educação profissional...
+- 🌱 Cursando desenvolvimento Web:
 - 💻 Front-end e back-end..[html,css, js] - 🐘🐍 [PHP].
 - 😄 Banco de Dados com Mysql
 - 📂 <b>Segue o link do meu Portifólio:<b/>....
