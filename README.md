@@ -1,7 +1,8 @@
 ## Olá !! Eu sou Alessandra Carvalho. 👋
 👋 Apaixonada por tecnologia e inovação.<br>
 Habilidades:
-- 🤓 Pós/MBA - Governança de TI e MBA Gestão Estratégica de TI.
+- 🤓 Gestão da Tecnologia da Informação - Senac/DF
+- 🤓 Pós/MBA - Governança de TI - Senac/DF e MBA Gestão Estratégica de TI - FGV.
 - 🔭 Atuando como professor da educação profissional...
 - 🌱 Cursando desenvolvimento Web:
 - 💻 Front-end e back-end..[html,css, js] - 🐘🐍 [PHP].
