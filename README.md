@@ -3,7 +3,6 @@
 Habilidades:
 - 🤓 Gestão da Tecnologia da Informação - Senac/DF
 - 🤓 Pós/MBA - Governança de TI - Senac/DF e MBA Gestão Estratégica de TI - FGV.
-- 🔭 Atuando como professor da educação profissional...
 - 🌱 Cursando desenvolvimento Web:
 - 💻 Front-end e back-end..[html,css, js] - 🐘🐍 [PHP].
 - 😄 Banco de Dados com Mysql
